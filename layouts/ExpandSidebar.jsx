@@ -2,6 +2,14 @@ import React from 'react'
 
 export default function ExpandSidebar() {
     return (
-        <div>Expand Sidebar</div>
+        <div
+            className='
+                text-center
+                text-white
+
+            '
+        >
+            Expand Sidebar
+        </div>
     )
 }

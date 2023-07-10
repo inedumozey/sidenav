@@ -46,11 +46,12 @@ export default function Layouts({ children }) {
                         absolute
                         right-0
                         top-o
+                        text-white
 
-                        // hidden on deskop
+                        // hide on large screen
                         md:hidden
 
-                        // shown on smaller screen
+                        // shown on smaller screen (mobile first)
                         flex
                         items-center
                         justify-center

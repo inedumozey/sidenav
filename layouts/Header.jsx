@@ -2,6 +2,14 @@ import React from 'react'
 
 export default function Header() {
     return (
-        <div>Header</div>
+        <div
+            className='
+                leading-[60px]
+                text-center
+
+            '
+        >
+            Header
+        </div>
     )
 }
