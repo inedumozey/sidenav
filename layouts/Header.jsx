@@ -9,7 +9,7 @@ export default function Header() {
 
             '
         >
-            Header
+            CONTROL PANEL
         </div>
     )
 }
